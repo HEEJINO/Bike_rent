@@ -8,3 +8,5 @@ Algorithm term project
 3. Debug/Run the py file, one button will be appear.
 4. After 3~5 minutes, the pop up that show location of the closet rental location around user.
 5. Click the button, then the map.html, the location of User, Rental location and path will be appear with red line in a new web page.
+
+csv file from (공공데이터 포털 https://www.data.go.kr/data/15017319/standard.do#/tab_layer_open%EC%97%AC%EA%B8%B0%EC%84%9C)
